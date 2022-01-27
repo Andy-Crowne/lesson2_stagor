@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19271174645",
+    "project_id": "flutter-firebase-2lesson",
+    "storage_bucket": "flutter-firebase-2lesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19271174645:android:fe607653583ce6668578bc",
+        "android_client_info": {
+          "package_name": "com.andycrowne.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19271174645-sffohq531uhbah4esh1vvu20bumnsb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LsOT91j4O4KC5Z3xGghEUdiNaQXHAic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19271174645-sffohq531uhbah4esh1vvu20bumnsb8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
